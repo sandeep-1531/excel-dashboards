@@ -1,5 +1,5 @@
 # excel-dashboards
-# 📊 Excel Dashboards Portfolio
+# 📊 Dashboards Portfolio
 
 This repository showcases my Excel dashboard projects built for data analysis and visualization across **Finance, Flights, Marketing, Retail, and Superstore** datasets.
 
